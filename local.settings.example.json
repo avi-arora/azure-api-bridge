@@ -1,0 +1,12 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "AzureWebJobsFeatureFlags": "EnableWorkerIndexing",
+    "AZURE_CLI_TENANT_ID": "",
+    "AZURE_AI_PROJECT_ENDPOINT": "https://<resource>.services.ai.azure.com/api/projects/<project>",
+    "MOBILE_MODEL_DEPLOYMENT_URL": "https://<resource>.openai.azure.com/",
+    "MODEL_API_VERSION": "2024-10-21"
+  }
+}
